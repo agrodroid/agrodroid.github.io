@@ -51,7 +51,7 @@
 
   // Modal popup$(function () {
   $('.portfolio-item').magnificPopup({
-    type: 'inline',
+    type: 'iframe',
     preloader: false,
     focus: '#username',
     modal: true
