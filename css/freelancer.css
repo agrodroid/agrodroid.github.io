@@ -4,10 +4,6 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/master/LICENSE)
  */
 
-#container1 { height: 100%; width: 100%; display: table; }
-#inner1 { vertical-align: middle; display: table-cell; }
-#gauge_div1 { width: 120px; margin: 0 auto; }
-
 body {
   font-family: 'Lato';
 }
